@@ -1,4 +1,4 @@
-![1](https://github.com/Diramix/Spotify-Music/assets/79011730/36cf0146-6397-4ca0-8dfe-0c8d7077d62a)
+![Без имени](https://github.com/user-attachments/assets/9fc2b35f-872d-44ae-844c-548b31c4b795)
 ![License](https://img.shields.io/github/license/Diramix/Spotify-Music.svg?style=for-the-badge)
 
 ### Powered by
@@ -29,7 +29,7 @@
 
    [YMusic-NormalRPC](https://github.com/Diramix/YMusic-NormalRPC)
 2. Установите его по инструкции репазитория «PulseSync» или воспользуйтесь установщиком «NormalRPC».
-3. Теперь качаем [тему]().
+3. Теперь качаем [тему](https://github.com/Diramix/Goida/archive/refs/heads/main.zip).
 4. После установки запускаем программу и нажимаем на кнопку «Директория со стилями»/«Папка с темами», кидаете туда ПАПКУ с темой.
 5. Выберете тему в приложении мода.
 6. Всё!
