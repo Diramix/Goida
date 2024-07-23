@@ -1,0 +1,9 @@
+{
+  "name": "Goida!",
+  "image": "image.png",
+  "author": "Diramix",
+  "description": "Beta",
+  "version": "1.0",
+  "css": "style.css",
+  "script": "script.js"
+}
