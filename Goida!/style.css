@@ -333,7 +333,15 @@
 	background: #0009;
 }
 
-/*- ГОЙДА*/
+body > div > main > div > div > div > div > button > span._3_Mxw7Si7j2g4kWjlpR::after {
+    visibility: hidden;
+}
+
+body > div > main > div > div > div > div > button > span._3_Mxw7Si7j2g4kWjlpR {
+    visibility: visible;
+}
+
+/*ГОЙДА*/
 body > div > main > div > div > div > div > button > span {
     visibility: hidden;
 }
