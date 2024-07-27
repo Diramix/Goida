@@ -7,7 +7,7 @@
 	content: "Z";
 	font-size: 300px;
 	left: 0px;
-	top: -100px;
+	top: -71px;
 	color: #fff;
 }
 
@@ -16,7 +16,7 @@
 	content: "Z";
 	font-size: 300px;
 	right: 0px;
-	bottom: -100px;
+	bottom: -104px;
 	color: #fff;
 }
 
@@ -223,7 +223,7 @@ body > div > p {
     left: 219px;
     right: 218px;
     top: 32px;
-    bottom: 5px;
+    bottom: 6px;
 }
 
 .PlayerBar_root__cXUnU {
@@ -287,12 +287,13 @@ body > div > p {
 }
 
 .xfFtKQpgAYvC2jI1tBtS {
-	background: #000;
+	background: rgba(0, 0, 0, 0.85);
 	margin-top: 16px;
 	border-radius: 10px 10px 0px 0px;
 	padding: 10px;
 }
 
+/*ONLY display: none;*/
 .NavbarDesktop_logoLink__KR0Dk,
 .SyncLyrics_content__lbkWP:after,
 .SyncLyrics_content__lbkWP:before,
@@ -302,8 +303,13 @@ body > div > p {
 	display: none;
 }
 
+/*NAVBAR*/
+.NavbarDesktop_pinsList___jXIM:before {
+	opacity: 0.7;
+}
+
 .NavbarDesktop_pinsList___jXIM {
-	margin-top: -10px;
+	margin-top: -8px;
 	background: #0009;
 }
 
@@ -324,6 +330,15 @@ body > div > p {
 
 .ChangeVolume_root__HDxtA {
 	height: 60px;
+	margin-left: 25px;
+}
+
+body > div > section > div > button {
+    margin-left: 15px;
+}
+
+.PlayerBarDesktop_meta__6sm58 {
+    margin-left: 5px;
 }
 
 .FullscreenPlayerDesktop_closeButton__MQ64s {
@@ -356,4 +371,8 @@ body > div > main > div > div > div > div > button > span::after {
 
 .DzJFnuf7XgdkFh28JAsM {
 	visibility: visible;
+}
+
+.PlayerBarDesktop_settingsButton__jLkVn {
+	padding: 5px;
 }
