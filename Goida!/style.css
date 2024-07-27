@@ -34,8 +34,7 @@
 	content: "История России";
 }
 
-.YMDRPC,
-.PSB {
+body > div > p {
 	visibility: hidden;
 }
 
