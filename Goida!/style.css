@@ -376,3 +376,12 @@ body > div > main > div > div > div > div > button > span::after {
 .PlayerBarDesktop_settingsButton__jLkVn {
 	padding: 5px;
 }
+
+/*Vibe Settings*/
+.VibeSettingsBlock_root__t8Hp_ {
+	position: fixed;
+	right: 230px;
+	height: calc(100% - 53px);
+	width: 25%;
+	min-width: 310px;
+}
