@@ -2,7 +2,7 @@
     --ym-background-color-primary-enabled-content: #000;
 }
 
-.FullscreenPlayerDesktop_controls__57AQi:before {
+.FullscreenPlayerDesktop_modalContent__Zs_LC:before {
 	position: fixed;
 	content: "Z";
 	font-size: 300px;
@@ -11,7 +11,7 @@
 	color: #fff;
 }
 
-.FullscreenPlayerDesktop_controls__57AQi:after {
+.FullscreenPlayerDesktop_modalContent__Zs_LC:after {
 	position: fixed;
 	content: "Z";
 	font-size: 300px;
@@ -20,7 +20,7 @@
 	color: #fff;
 }
 
-.FullscreenPoster_cover__WWgNX {
+.FullscreenPlayerDesktopPoster_cover__CDmhM {
 	content: url("http://127.0.0.1:2007/assets/album-cover.gif");
 }
 
@@ -341,9 +341,7 @@ body > div > section > div > button {
     margin-left: 5px;
 }
 
-.FullscreenPlayerDesktop_closeButton__MQ64s {
-	position: fixed;
-	bottom: 40px;
+.FullscreenPlayerDesktop_modalContent__Zs_LC {
 	background: #0009;
 }
 
@@ -374,5 +372,15 @@ body > div > main > div > div > div > div > button > span::after {
 }
 
 .PlayerBarDesktop_settingsButton__jLkVn {
-	padding: 5px;
+	height: 38px;
+	width: 38px;
+}
+
+/*Vibe Settings*/
+.VibeSettingsBlock_root__t8Hp_ {
+	position: fixed;
+	right: 230px;
+	height: calc(100% - 53px);
+	width: 25%;
+	min-width: 310px;
 }
