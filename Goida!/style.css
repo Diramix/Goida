@@ -9,6 +9,7 @@
 	left: 0px;
 	top: -71px;
 	color: #fff;
+	z-index: 0;
 }
 
 .FullscreenPlayerDesktop_modalContent__Zs_LC:after {
@@ -18,6 +19,7 @@
 	right: 0px;
 	bottom: -104px;
 	color: #fff;
+	z-index: 0;
 }
 
 .FullscreenPlayerDesktopPoster_cover__CDmhM {
@@ -171,6 +173,7 @@ body > div > p {
 	background-size: cover;
 	width: 100%;
 	height: 100%;
+	z-index: 10;
 }
 
 .SyncLyrics_content__lbkWP {
@@ -299,7 +302,10 @@ body > div > p {
 .SyncLyrics_content__lbkWP:before,
 .InnerHeader_root_showColor__wMtVK,
 .PlaylistPage_averageColorBackground__3wEkw,
-.AlbumPage_averageColorBackground__PmVaF {
+.AlbumPage_averageColorBackground__PmVaF,
+[data-test-id="SHUFFLE_BUTTON"],
+[data-test-id="REPEAT_BUTTON_NO_REPEAT"],
+.UserProfile_root__vFuOj {
 	display: none;
 }
 
@@ -311,6 +317,11 @@ body > div > p {
 .NavbarDesktop_pinsList___jXIM {
 	margin-top: -8px;
 	background: #0009;
+}
+
+.NavbarDesktop_root__scYzp {
+	margin-top: -52px;
+	height: -webkit-fill-available;
 }
 
 .TitleBar_root__QjdOZ {
@@ -369,11 +380,6 @@ body > div > main > div > div > div > div > button > span::after {
 
 .DzJFnuf7XgdkFh28JAsM {
 	visibility: visible;
-}
-
-.PlayerBarDesktop_settingsButton__jLkVn {
-	height: 38px;
-	width: 38px;
 }
 
 /*Vibe Settings*/
